@@ -1,0 +1,15 @@
+h1 {
+    text-align: center;
+    background-color: tomato;
+}
+
+* {
+    margin: 1px;
+    padding: 2px;
+    background-color: gray;
+    border: 1px solid black; 
+}
+
+p {
+    color: aqua
+}
