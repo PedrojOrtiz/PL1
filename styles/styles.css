@@ -1,14 +1,30 @@
-@charset "utf-8";
 
 h1 {
-    color: gray;
+    color: orangered;
     text-align: center;
 }
 
-article {
-    -webkit-column-count: auto;
-    -moz-column-count: auto;
-    column-count: auto;
+img {
+    display:block;
+    margin:auto;
+}
+
+iframe {
+    display: block;
+    margin: auto;
+}
+
+html {
+	font-size: 100%;
+	-webkit-text-size-adjust: 100%;
+	-ms-text-size-adjust: 100%;
+}
+nav ul, nav ol {
+	list-style: none;
+	list-style-image: none;
+	margin: 0;
+    padding: 0;
+    glyph-orientation-horizontal: 0grad;
 }
 
 
