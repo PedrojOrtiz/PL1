@@ -1,15 +1,14 @@
+@charset "utf-8";
+
 h1 {
+    color: gray;
     text-align: center;
-    background-color: tomato;
 }
 
-* {
-    margin: 1px;
-    padding: 2px;
-    background-color: gray;
-    border: 1px solid black; 
+article {
+    -webkit-column-count: auto;
+    -moz-column-count: auto;
+    column-count: auto;
 }
 
-p {
-    color: aqua
-}
+
