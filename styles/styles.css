@@ -59,7 +59,6 @@ header {
     background-color: orangered;
 }
 
-
 body .contenido{
     float: right;
     margin-bottom: 25px;
@@ -86,8 +85,6 @@ footer {
 img {
     align-content: center;
 }
-
-
 
 .center {
     display: block;

@@ -85,7 +85,7 @@ header {
     color: black;
 }
 
-#menu2 ul li a:hover, .menu ul li .current {
+#menu2 ul li a:hover, #menu ul li .current{
     color: black;
     background-color: orangered;
 }
@@ -125,12 +125,40 @@ footer {
 
 h1 {
     color: red;
+    font-family: 'Times New Roman', Times, serif;
 }
 
 h2 {
     color: chocolate;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 h3 {
-    color: aqua;
+    color: darkgoldenrod;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.boton ul {
+    position: relative;
+    width: 40%;
+    border-width: 1px;
+    border-radius: 20px;
+    border-style: outset;
+    list-style-type: none;
+}
+
+.boton ul li a {
+    text-decoration: none;
+    padding: 8px 5px;
+    background-color: whitesmoke;
+    display: block;
+}
+
+.boton ul li a:visited {
+    color: black;
+}
+
+.boton ul li a:hover, .boton ul li .current{
+    color: black;
+    background-color: orangered;
 }
