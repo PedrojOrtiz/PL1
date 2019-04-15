@@ -35,6 +35,7 @@ header {
     border-width: 1px;
     border-radius: 20px;
     border-style: outset;
+    background-color: rgba(69, 89, 105, 0.5);
     margin-top: 37px;
     margin-left: -21px;
     width: 20%;
