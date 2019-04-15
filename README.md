@@ -31,3 +31,14 @@ Ahora, las capturas de los resultados obtenidos ya en el navegador (Google Chrom
 ![16](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/11.png)
 ![17](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/12.png)
 ![18](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/13.png)
+
+Luego de haber estructurado correctamente los archivos *.html procedemos a escribir las reglas de estilo y diseño con CSS3 y obtenemos
+los siguientes resultados:
+
+![19](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/20.png)
+![20](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/21.png)
+![21](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/22.png)
+![22](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/23.png)
+![23](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/24.png)
+![24](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/25.png)
+![25](https://github.com/PedrojOrtiz/Practica01-Mi-Blog/blob/master/capturas/26.png)
